@@ -1,0 +1,74 @@
+6245 entries total (3675 parents, 2570 metabolites)
+1557 have no verified annotations (0 parents, 1557 metabolites)
+0 have no MS2 spectra
+0 annotations have no MQNs
+1371 annotations do not have 3D structure(s)
+0 structures have no MD3Ds
+274 ann_ids to remove by MS2 score
+112 str_ids to remove by MS2 score
+
+plate_N
+plate       N    [M+H]+ [M+Na]+ [M+K]+ [M+H-H2O]+ [M]+ parents metabolites
+plate_1    999    306    241     205     216      31       711      288
+plate_2    831    258    227     176     150      20       628      203
+plate_3   1116    377    287     207     213      32       475      641
+plate_4    857    263    212     184     182      16       576      281
+plate_5   1028    270    307     229     213       9       585      443
+plate_6   1187    382    330     190     279       6       558      629
+plate_7    227     80     52      44      46       5       142       85
+  total   6245   1936   1656    1235    1299     119      3675     2570
+
+plate_N_id
+plate       N    parents metabolites
+plate_1    830       711      119
+plate_2    697       628       69
+plate_3    714       475      239
+plate_4    687       576      111
+plate_5    650       585       65
+plate_6    672       558      114
+plate_7    169       142       27
+  total   4419      3675      744
+
+plate_N_ms2
+plate       N
+plate_1    999
+plate_2    831
+plate_3   1116
+plate_4    857
+plate_5   1028
+plate_6   1187
+plate_7    227
+  total   6245 
+
+plate_N_mqn
+plate       N
+plate_1    830
+plate_2    697
+plate_3    714
+plate_4    687
+plate_5    650
+plate_6    672
+plate_7    169
+  total   4419 
+
+plate_N_3d
+plate       N    parents metabolites [M+H]+ [M+Na]+ [M+K]+
+plate_1   1841      1503      338       751      573     517
+plate_2   1607      1396      211       664      523     420
+plate_3   1812      1073      739       868      533     411
+plate_4   1413      1120      293       539      460     414
+plate_5   1308      1129      179       489      456     363
+plate_6   1442      1123      319       589      509     344
+plate_7    390       308       82       174      118      98
+  total   9813      7652     2161      4074     3172    2567
+
+plate_N_md3d
+plate       N
+plate_1   1841
+plate_2   1607
+plate_3   1812
+plate_4   1413
+plate_5   1308
+plate_6   1442
+plate_7    390
+  total   9813 
